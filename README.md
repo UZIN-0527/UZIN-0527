@@ -33,7 +33,7 @@ greet("신우진")
 
 귀여운 고양이 이미지:
 
-![고양이](https://placekitten.com/400/300)
+![고양이](https://www.placecats.com/400/300)
 
 ### 할 일 목록
 - [x] 깃헙 계정 만들기
